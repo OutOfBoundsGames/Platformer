@@ -2,8 +2,7 @@
 if (global.checkpointR != 0){
     room_goto(global.checkpointR);
 }else{
-    show_debug_message("Where does this get called");
-    //room_restart();
+    room_restart();
 }
 /*
 var obj_death = argument[0];

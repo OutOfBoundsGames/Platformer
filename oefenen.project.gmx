@@ -50,6 +50,9 @@
     </scripts>
   </scripts>
   <objects name="objects">
+    <objects name="System">
+      <object>objects\Gamestate</object>
+    </objects>
     <objects name="Parents">
       <object>objects\obj_Collision</object>
       <object>objects\obj_Enimie</object>

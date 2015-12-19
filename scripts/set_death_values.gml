@@ -1,4 +1,4 @@
-if (global.checkpointR != 0)
+/*if (global.checkpointR != 0)
 {
     room_goto(global.checkpointR);
 }
@@ -19,4 +19,4 @@ if (place_meeting(x,y,obj_death))
 else
 {
     game_restart();
-}
+}*/

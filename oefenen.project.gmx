@@ -50,6 +50,9 @@
     </scripts>
   </scripts>
   <objects name="objects">
+    <objects name="System">
+      <object>objects\Gamestate</object>
+    </objects>
     <objects name="Parents">
       <object>objects\obj_Collision</object>
       <object>objects\obj_Enimie</object>
@@ -58,6 +61,7 @@
       <object>objects\obj_Player</object>
     </objects>
     <objects name="Tiles">
+      <object>objects\obj_enemy_tile</object>
       <object>objects\obj_Lava_Block</object>
       <object>objects\obj_Brick_Block</object>
       <object>objects\obj_Lava_Block2</object>
